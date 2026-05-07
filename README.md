@@ -149,7 +149,7 @@ Single Title Viewではタイトルのスライサーをページレベルのフ
 
 | Overview | Single Title View |
 |----------|-----------------|
-| ![Overview](docs/dashboard_overview.png) | ![Single Title View](docs/dashboard_single.png) |
+| ![Overview](docs/2026_0506_Netflix_data_analysis_Page_1.jpng) | ![Single Title View](docs/dashboard_single.png) |
 
 ---
 *作成日: 06/05/2026
